@@ -6,6 +6,7 @@ public class MovePlayer : MonoBehaviour
 {
     public int speed = 20;
     public float speed2 = 22;
+    public float speed3 = 25;
     // Start is called before the first frame update
     void Start()
     {
